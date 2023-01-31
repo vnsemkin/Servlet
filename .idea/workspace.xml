@@ -9,9 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a86866d-6ede-423b-be3f-ada2eea055b3" name="Changes" comment="Servlet ver1">
+    <list default="true" id="5a86866d-6ede-423b-be3f-ada2eea055b3" name="Changes" comment="Servlet ver2">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/filter/AuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/filter/AuthorizationFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +185,9 @@
       <workItem from="1674901904112" duration="8705000" />
       <workItem from="1674918038873" duration="6471000" />
       <workItem from="1674982882974" duration="154000" />
-      <workItem from="1675101478292" duration="1703000" />
+      <workItem from="1675101478292" duration="2042000" />
+      <workItem from="1675106044000" duration="1080000" />
+      <workItem from="1675152917313" duration="2155000" />
     </task>
     <task id="LOCAL-00001" summary="Servlet ver1">
       <created>1674924235617</created>
@@ -193,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674924235617</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Servlet ver2">
+      <created>1675103556778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675103556778</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +211,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Servlet ver1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Servlet ver1" />
+    <MESSAGE value="Servlet ver2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Servlet ver2" />
   </component>
 </project>
